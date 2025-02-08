@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <div>Hi✨, I'm</div>
-  <img src="" />
+   <img src="PARTHA.svg" />
 </h1>
 
 
