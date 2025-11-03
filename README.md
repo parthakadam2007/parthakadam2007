@@ -9,7 +9,7 @@
 ### Skills & Technologies 🛠
 **Languages :**
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,mysql,postgress,html,css,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,mysql,html,css,c,cpp,java)](https://skillicons.dev)
 
 **Technologies :** 
 
