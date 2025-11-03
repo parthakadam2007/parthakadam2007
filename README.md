@@ -9,11 +9,11 @@
 ### Skills & Technologies 🛠
 **Languages :**
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,mysql,,postgress,html,css,c,cpp,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,mysql,postgress,html,css,c,cpp,java)](https://skillicons.dev)
 
 **Technologies :** 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,nodejs,fastapi,flask,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,nodejs,fastapi,flask,springboot,express,react,supabase,docker,nginx,git,redis,mongodb,bullmq,aws,azure)](https://skillicons.dev)
 
 ##
 
