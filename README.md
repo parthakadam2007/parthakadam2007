@@ -18,6 +18,6 @@
 ##
 
 ### Let's Connect 🤝
-<div align="left"> <a href="[https://linkedin.com/in/aryak19](https://www.linkedin.com/in/partha-kadam-6a67b2331/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:parthakadam2007@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+<div align="left"> <a href="[linkedin.com/in/partha-kadam-b99a74291](https://www.linkedin.com/in/partha-kadam-6a67b2331/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:parthakadam2007@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 
 ##
