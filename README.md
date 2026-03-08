@@ -13,7 +13,7 @@
 
 **Technologies :** 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,nodejs,fastapi,flask,postgres,mysql,prisma,tailwind,nextjs,express,react,supabase,docker,nginx,git,redis,redux,spring,mongodb,aws,azure,jenkins,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,nodejs,fastapi,flask,postgres,mysql,prisma,tailwind,nextjs,express,react,supabase,docker,k8s,nginx,git,redis,redux,spring,mongodb,aws,azure,jenkins,gcp)](https://skillicons.dev)
 
 ##
 
