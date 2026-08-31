@@ -5,7 +5,8 @@
 </h1>
 
 
-<div>Software is all about human communication </div>
+<div style = "text-aline:"centre" >Software is all about human communication </div>
+
 ### Skills & Technologies 🛠
 **Languages :**
 
